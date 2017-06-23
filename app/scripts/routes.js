@@ -1,0 +1,1 @@
+$httpProvider.interceptors.push('AuthInterceptor'); 
